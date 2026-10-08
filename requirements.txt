@@ -1,0 +1,9 @@
+anthropic>=0.40
+streamlit>=1.38
+duckdb>=1.0
+pandas>=2.0
+pyarrow>=15
+openpyxl>=3.1
+# Used when HR_BACKEND=snowflake (key-pair or token login):
+snowflake-connector-python>=3.12
+cryptography>=42
